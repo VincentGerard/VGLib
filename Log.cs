@@ -6,3 +6,4 @@ public static class Log
 		System.Console.WriteLine(value);
 	}
 }
+
